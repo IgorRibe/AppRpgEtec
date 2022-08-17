@@ -1,0 +1,15 @@
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.deps.json
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.AssemblyReference.cache
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfoInputs.cache
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfo.cs
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CoreCompileInputs.cache
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\refint\AppRpgEtec.dll
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Igor\pw111\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll
